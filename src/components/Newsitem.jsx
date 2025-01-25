@@ -5,3 +5,4 @@ export const Newsitem = () => {
     <div>Newsitem</div>
   )
 }
+export default Newsitem;
